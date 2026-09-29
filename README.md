@@ -1,2 +1,4 @@
-# computer-architecture
-Repo to build up examples for computer architecture
+# Computer Architecture Examples
+* Class repository to show items gone over in class.
+
+
