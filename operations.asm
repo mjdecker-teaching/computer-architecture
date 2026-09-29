@@ -4,9 +4,9 @@
 
 # register int lhs = 1024;
 # register int rhs = 368;
-# register int result = lhs + rhs;
+# register int result = lhs - rhs;
 li $t0 1024
 li $t1 368
-add $t2 $t0 $t1
+sub $t2 $t0 $t1
 
 
