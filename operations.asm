@@ -9,4 +9,7 @@ li $t0 1024
 li $t1 368
 sub $t2 $t0 $t1
 
-
+li $t0 0x80000000
+li $t1 1
+#sub $t2 $t0 $t1
+subu $t2 $t0 $t1
